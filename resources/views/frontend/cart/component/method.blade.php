@@ -1,0 +1,1 @@
+{{-- Phương thức thanh toán đã được xóa --}}
