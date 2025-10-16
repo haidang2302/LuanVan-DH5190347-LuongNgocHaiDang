@@ -1,0 +1,2 @@
+Dự án đã làm: Trang chủ, Sản phẩm, Đăng ký, Đăng nhập, Trang thanh toán
+ Tuần tiếp theo: Hoàn thành trang thanh toán có thanh toán bằng các hình thức, danh mục sản phẩm, 
